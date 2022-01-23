@@ -43,5 +43,5 @@ to switch off and switch on the system.
 
 ## Screenshots
 
-![]()
+![](https://github.com/Karan-Rajesh-Nair/Automatic-Pump-and-Water-Level-Controller/blob/main/Image1.jpg)
 
