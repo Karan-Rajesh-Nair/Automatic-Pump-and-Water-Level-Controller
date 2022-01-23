@@ -33,7 +33,7 @@ to switch off and switch on the system.
  Automatic Pump and Water Level Controller
  - https://www.tinkercad.com/things/bayLkrNtSws-automatic-pump-and-water-level/editel
 
-## Authors
+## Group Members
 
 - [@Arjun U](https://github.com/Arjun2099)
 - [@Sidharth S Kumar](https://github.com/Sidharthssk)
