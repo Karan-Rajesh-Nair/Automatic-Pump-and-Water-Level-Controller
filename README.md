@@ -41,7 +41,7 @@ to switch off and switch on the system.*
 - [@Karan-Rajesh-Nair](https://github.com/Karan-Rajesh-Nair)
 
 
-## Screenshots
+## Image
 
 ![SS](https://github.com/Karan-Rajesh-Nair/Automatic-Pump-and-Water-Level-Controller/blob/main/Image1.jpg)
 
